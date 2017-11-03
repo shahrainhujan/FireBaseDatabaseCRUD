@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "574752258131",
+    "firebase_url": "https://fir-databasecrud-b654e.firebaseio.com",
+    "project_id": "fir-databasecrud-b654e",
+    "storage_bucket": "fir-databasecrud-b654e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574752258131:android:7bea7ce47072f83e",
+        "android_client_info": {
+          "package_name": "com.example.shahreen.firebasedatabasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574752258131-qq38buvbhv750e3m34rr515mlv1rop87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shahreen.firebasedatabasecrud",
+            "certificate_hash": "65b25e737a5c00e41aebb653faf03f8754831914"
+          }
+        },
+        {
+          "client_id": "574752258131-tdfgue712dl29a5ojafdaptnmeu8plsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrb6cv01L0ylbLQZHcm25GHRQ8bwaj6No"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574752258131-tdfgue712dl29a5ojafdaptnmeu8plsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
